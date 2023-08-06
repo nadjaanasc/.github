@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hello there 👋, we are G4 Developers company
+
+## 🎯 Mission
+Promote technological solutions through products and services that are useful and accurate for the natural and current concerns of society.
+
+## 💡 Values
+Professionalism, innovation, timeliness, humanity, simplicity, and quality.
+
+## 👀 Vision
+Contribute to the development of a fairer, technological society with fewer obstacles.
+
+
 
 <!--
 
