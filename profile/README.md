@@ -1,4 +1,4 @@
-# Hello there 👋, we are G4 Developers company
+# Hello there 👋, we are G4 Devels company
 
 ## 🎯 Mission
 Promote technological solutions through products and services that are useful and accurate for the natural and current concerns of society.
