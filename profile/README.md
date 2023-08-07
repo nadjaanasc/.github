@@ -3,13 +3,13 @@
 ![Company logo](./company-logo.jpeg)
 
 ## 🎯 Mission
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean blandit efficitur dignissim. Sed dictum nunc eget elementum facilisis. Sed quam leo, malesuada vulputate interdum nec, euismod vel nunc. Sed vel vestibulum ligula. Phasellus blandit, augue ut maximus hendrerit, urna lorem mollis quam, vitae lacinia justo mauris sit amet odio.
+Apesar da complexidade e inevitabilidade dos grandes desafios da humanidade que persistentemente impactam o progresso humano em várias áreas, é importante ressaltar que não são apenas esses problemas que causam as maiores perdas em nossa vida diária. São, na verdade, os pequenos obstáculos, desvios e atrasos que acabam se revelando os verdadeiros inibidores do avanço. Na G4Devs, nossa missão é impulsionar a eficiência humana e criar oportunidades para aprimorar o seu desempenho, através do desenvolvimento de tecnologias inovadoras.
 
 ## 💡 Values
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean blandit efficitur dignissim. Sed dictum nunc eget elementum facilisis. Sed quam leo, malesuada vulputate interdum nec, euismod vel nunc. Sed vel vestibulum ligula. Phasellus blandit, augue ut maximus hendrerit, urna lorem mollis quam, vitae lacinia justo mauris sit amet odio.
+A G4Devs é resumida por colaboração, adaptação e repetição. A sede de melhoria nos move e por ela trabalharemos até o fim.
 
 ## 👀 Vision
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean blandit efficitur dignissim. Sed dictum nunc eget elementum facilisis. Sed quam leo, malesuada vulputate interdum nec, euismod vel nunc. Sed vel vestibulum ligula. Phasellus blandit, augue ut maximus hendrerit, urna lorem mollis quam, vitae lacinia justo mauris sit amet odio.
+Ser uma empresa que intervenha na realidade e torne a vida das pessoas mais fácil, tecnológica e justa.
 
 ## Statistics
 
