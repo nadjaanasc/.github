@@ -1,13 +1,24 @@
 # Hello there 👋, we are G4 Devels company
 
+![Company logo](./company-logo.jpeg)
+
 ## 🎯 Mission
-Promote technological solutions through products and services that are useful and accurate for the natural and current concerns of society.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean blandit efficitur dignissim. Sed dictum nunc eget elementum facilisis. Sed quam leo, malesuada vulputate interdum nec, euismod vel nunc. Sed vel vestibulum ligula. Phasellus blandit, augue ut maximus hendrerit, urna lorem mollis quam, vitae lacinia justo mauris sit amet odio.
 
 ## 💡 Values
-Professionalism, innovation, timeliness, humanity, simplicity, and quality.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean blandit efficitur dignissim. Sed dictum nunc eget elementum facilisis. Sed quam leo, malesuada vulputate interdum nec, euismod vel nunc. Sed vel vestibulum ligula. Phasellus blandit, augue ut maximus hendrerit, urna lorem mollis quam, vitae lacinia justo mauris sit amet odio.
 
 ## 👀 Vision
-Contribute to the development of a fairer, technological society with fewer obstacles.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean blandit efficitur dignissim. Sed dictum nunc eget elementum facilisis. Sed quam leo, malesuada vulputate interdum nec, euismod vel nunc. Sed vel vestibulum ligula. Phasellus blandit, augue ut maximus hendrerit, urna lorem mollis quam, vitae lacinia justo mauris sit amet odio.
+
+## Statistics
+
+<!-- Documentation: https://github.com/PressJump/reimaginedreadme-->
+<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+<!-- Documentation: https://github.com/ryo-ma/github-profile-trophy-->
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=MultiLanguage,Repositories,Reviews,Commits,Issues,PullRequest)
+
 
 
 
