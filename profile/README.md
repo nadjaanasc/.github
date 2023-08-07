@@ -17,8 +17,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean blandit efficitu
 <img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <!-- Documentation: https://github.com/ryo-ma/github-profile-trophy-->
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=MultiLanguage,Repositories,Reviews,Commits,Issues,PullRequest)
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=MultiLanguage,Repositories,Reviews,Commits,Issues,PullRequest" alt="Trophy">
+</div>
 
 
 
