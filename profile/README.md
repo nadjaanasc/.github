@@ -18,12 +18,12 @@ Ser uma empresa que intervenha na realidade e torne a vida das pessoas mais fác
 
 <!-- Documentation: https://github.com/ryo-ma/github-profile-trophy-->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&title=MultiLanguage,Repositories,Reviews,Commits,Issues,PullRequest" alt="Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=G4Devels&title=MultiLanguage,Repositories,Reviews,Commits,Issues,PullRequest" alt="Trophy">
 </div>
 
 ---
 
-## <p align="center"> Team </p>
+## Team
 <table align="center">
     <tr align="center">
       <td><a href="https://github.com/Camilay3"><img src="https://avatars.githubusercontent.com/u/92113919?v=4" width="100px;" alt="Camila Azevedo"/><br /><sub><b>Camila Azevedo</b></sub></a><br /></td>
