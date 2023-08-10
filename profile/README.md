@@ -1,17 +1,17 @@
-# Hello there 👋, we are G4 Devels company
+![Logo da empresa](./company-logo.jpeg)
 
-![Company logo](./company-logo.jpeg)
+# Olá humanos 👋, nós somos a empresa G4 Devels 
 
-## 🎯 Mission
+## 🎯 Missão
 Apesar da complexidade e inevitabilidade dos grandes desafios da humanidade que persistentemente impactam o progresso humano em várias áreas, é importante ressaltar que não são apenas esses problemas que causam as maiores perdas em nossa vida diária. São, na verdade, os pequenos obstáculos, desvios e atrasos que acabam se revelando os verdadeiros inibidores do avanço. Na G4Devs, nossa missão é impulsionar a eficiência humana e criar oportunidades para aprimorar o seu desempenho, através do desenvolvimento de tecnologias inovadoras.
 
-## 💡 Values
+## 💡 Valores
 A G4Devs é resumida por colaboração, adaptação e repetição. A sede de melhoria nos move e por ela trabalharemos até o fim.
 
-## 👀 Vision
+## 👀 Visão
 Ser uma empresa que intervenha na realidade e torne a vida das pessoas mais fácil, tecnológica e justa.
 
-## Statistics
+## Estatísticas
 
 <!-- Documentation: https://github.com/PressJump/reimaginedreadme-->
 <img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?=G4Devels&panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
