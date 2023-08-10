@@ -1,4 +1,4 @@
-![Logo da empresa](./company-logo.jpeg)
+![Logo da empresa](./company-logo.png)
 
 # Olá humanos 👋, nós somos a empresa G4 Devels 
 
