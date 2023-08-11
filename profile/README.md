@@ -1,4 +1,4 @@
-![Company Logo](./company-logo.png)
+![Company Logo](/profile/company-logo.png)
 
 # Olá humanos 👋, nós somos a empresa G4 Devels 
 
