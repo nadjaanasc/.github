@@ -1,29 +1,52 @@
 ![Company Logo](/profile/company-logo.png)
 
-# Olá humanos 👋, nós somos a empresa G4 Devels 
+<h1 align="center">G4 Devels</h1> 
 
-## 🎯 Missão
-Apesar da complexidade e inevitabilidade dos grandes desafios da humanidade que persistentemente impactam o progresso humano em várias áreas, é importante ressaltar que não são apenas esses problemas que causam as maiores perdas em nossa vida diária. São, na verdade, os pequenos obstáculos, desvios e atrasos que acabam se revelando os verdadeiros inibidores do avanço. Na G4Devs, nossa missão é impulsionar a eficiência humana e criar oportunidades para aprimorar o seu desempenho, através do desenvolvimento de tecnologias inovadoras.
+# **_Quem somos?_**
 
-## 💡 Valores
-A G4Devs é resumida por colaboração, adaptação e repetição. A sede de melhoria nos move e por ela trabalharemos até o fim.
+<sup> _informações sobre a empresa_ </sup>
+## *Nossa missão, Nossos valores e Nossa visão*
 
-## 👀 Visão
-Ser uma empresa que intervenha na realidade e torne a vida das pessoas mais fácil, tecnológica e justa.
-
-## Estatísticas
-
-<!-- Documentation: https://github.com/PressJump/reimaginedreadme-->
-<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?=G4Devels&panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
-<!-- Documentation: https://github.com/ryo-ma/github-profile-trophy-->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=G4Devels&title=MultiLanguage,Repositories,Reviews,Commits,Issues,PullRequest" alt="Trophy">
-</div>
 
 ---
 
-## Team
+### 🎯 | Missão
+- Apesar da complexidade e inevitabilidade dos grandes desafios da humanidade que persistentemente impactam o progresso humano em várias áreas, é importante ressaltar que não são apenas esses problemas que causam as maiores perdas em nossa vida diária. São, na verdade, os pequenos obstáculos, desvios e atrasos que acabam se revelando os verdadeiros inibidores do avanço. Na G4Devs, nossa missão é impulsionar a eficiência humana e criar oportunidades para aprimorar o seu desempenho, através do desenvolvimento de tecnologias inovadoras.
+
+---
+
+### 💡 | Valores
+- A G4Devs é resumida por colaboração, adaptação e repetição. A sede de melhoria nos move e por ela trabalharemos até o fim.
+
+---
+
+### 👀 | Visão
+- Ser uma empresa que intervenha na realidade e torne a vida das pessoas mais fácil, tecnológica e justa.
+
+---
+
+<div align="center"> 
+  
+  ## *📊 | Estatísticas* 
+  
+</div>
+
+<!-- Documentation: https://github.com/PressJump/reimaginedreadme-->
+<div align="center">
+  <img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?=G4Devels&panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme"/>
+</div>
+
+<!-- Documentation: https://github.com/ryo-ma/github-profile-trophy
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=G4Devels&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="Trophy">
+</div>
+-->
+---
+<div align="center">
+  
+## *🏢 | Team*
+
+</div>
 <table align="center">
     <tr align="center">
       <td><a href="https://github.com/Camilay3"><img src="https://avatars.githubusercontent.com/u/92113919?v=4" width="100px;" alt="Camila Azevedo"/><br /><sub><b>Camila Azevedo</b></sub></a><br /></td>
