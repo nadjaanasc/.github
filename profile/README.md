@@ -27,7 +27,7 @@
 
 <div align="center"> 
   
-  ## *📊 | Estatísticas* 
+  ## 📊 *| Estatísticas* 
   
 </div>
 
@@ -44,7 +44,7 @@
 ---
 <div align="center">
   
-## *🏢 | Team*
+## 🏢 *| Team*
 
 </div>
 <table align="center">
